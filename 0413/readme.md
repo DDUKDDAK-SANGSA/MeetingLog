@@ -2,7 +2,7 @@
 - 레이아웃 색감 확정
 - 수행계획서 작성 완료
 
-폰트 : kopub돋움체pro
-로고 : Impact
+- 폰트 : kopub돋움체pro
+- 로고 : Impact
 
 레이아웃 구현하기
